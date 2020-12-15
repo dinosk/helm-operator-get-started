@@ -1,0 +1,6 @@
+# Default values for chart-with-cluster-admin-crb.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+serviceAccountName: workspace-cluster-admin
+namespace: demo-app
